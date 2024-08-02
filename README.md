@@ -134,12 +134,12 @@ The main components of the code are as follows:
     demo.launch()
     ```
 
----
-sdk: gradio
-sdk_version: 4.36.1
-app_file: app.py
-license: mit
----
+| **Key**       | **Value**        |
+|---------------|------------------|
+| sdk           | gradio           |
+| sdk_version   | 4.36.1           |
+| app_file      | app.py           |
+| license       | mit              |
 
 ## License
 
