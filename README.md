@@ -6,7 +6,7 @@ This repository contains a demo application for generating images using the Stab
 
 Stable Diffusion 3 Medium is a state-of-the-art text-to-image generation model that can create highly detailed and visually appealing images from textual prompts. This demo allows you to experiment with the model by entering your own prompts and adjusting various settings to customize the output.
 
-![Stable Diffusion](https://stability.ai/assets/images/news/stable-diffusion-3.jpg)
+![Stable Diffusion](https://imgs.search.brave.com/VPBcnJGvzqn6cIy_VLSkpx7scJRGXwUBi9QMC8tTx9w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmlt/Z3VyLmNvbS8ydUM4/cllKLnBuZw)
 
 ## Features
 
