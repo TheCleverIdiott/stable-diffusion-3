@@ -1,4 +1,4 @@
-# Stable Diffusion 3 Medium Demo
+# Stable Diffusion 3
 
 This repository contains a demo application for generating images using the Stable Diffusion 3 Medium model from Stability AI. The demo is built using Gradio, making it easy to interact with the model through a web interface.
 
